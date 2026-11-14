@@ -47,25 +47,3 @@ Prevenção: Devem ser tomadas medidas para evitar a ocorrência de danos em vir
 Não discriminação: É vedado o tratamento de dados para fins Discriminatórios ilícitos ou abusivos.
 
 Responsabilização e prestação de contas: O agente deve demonstrar a adoção de medidas capazes de comprovar a sua conformidade com a lei.
-
-("Centro Integrado Operacional de Defesa Social")
-
->
-LAI: 911
-LAI: 112
-LAI: 190
-LAI: 192
-LAI: 156
-LAI: 115
-LAI: 136
-LAI: 100
-LAI: 193
-LAI: 153
-LAI: 197
-LAI: 198
-LAI: 199
-LAI: 191
-LAI: 194
-LAI: 181
-LAI: 180
-LAI: 142
