@@ -1,0 +1,19 @@
+("Centro Integrado Operacional de Defesa Social")
+LAI: 911 
+LAI: 112 
+LAI: 190 
+LAI: 192 
+LAI: 156 
+LAI: 115 
+LAI: 136 
+LAI: 100 
+LAI: 193 
+LAI: 153 
+LAI: 197 
+LAI: 198 
+LAI: 199 
+LAI: 191 
+LAI: 194 
+LAI: 181 
+LAI: 180 
+LAI: 142
