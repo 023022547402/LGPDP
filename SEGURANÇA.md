@@ -12,14 +12,11 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Relatando uma vulnerabilidade
 
-Use this section to tell people how to report a vulnerability.
+Use esta seção para informar como relatar uma vulnerabilidade.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-
+Indique onde fazer o relato, com que frequência é possível esperar atualizações sobre uma vulnerabilidade reportada, o que esperar caso a vulnerabilidade seja aceita ou recusada, etc.
 -
 
 ## Princípios LGPD (pt-br)
