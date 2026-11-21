@@ -20,7 +20,7 @@ Indique onde fazer o relato, com que frequência é possível esperar atualizaç
 
 ## Princípios LGPD (pt-br)
 
-Os princípios da LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018) orientam como as empresas e o poder público devem coletar e usar dados pessoais. Eles estão listados no Artigo 6º da lei e começam obrigatoriamente pelo princípio da boa-fé:
+Os princípios da LGPD (Lei Geral de Proteção de Dados - Lei nº 13.709/2018) orientam como as empresas e o poder público devem coletar e usar dados pessoais. Eles estão listados no Artigo 6º da lei e começam obrigatóriamente pelo princípio da boa-fé:
 
 Boa-fé: As práticas de tratamento de dados devem ter conduta honesta, leal e transparente.
 
