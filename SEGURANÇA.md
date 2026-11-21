@@ -1,11 +1,10 @@
-# Security Policy
+# Política de Segurança
 
-## Supported Versions
+## Versões com suporte
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Use esta seção para informar quais versões do seu projeto recebem, atualmente, suporte por meio de atualizações de segurança.
 
-| Version | Supported          |
+| Versão  | Suporte            |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
